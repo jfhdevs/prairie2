@@ -5,7 +5,11 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Bonjour Simplonco2 !");
+	}
+	
+	public static void bonjour () {	
+		System.out.println("Bonjour Simplonco !");
+	
 
 	}
 
